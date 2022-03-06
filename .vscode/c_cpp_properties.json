@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "TI84",
+            "includePath": [
+                "CEdev/include"
+            ],
+            "defines": [],
+            "compilerPath": "${workspaceFolder}/CEdev/bin/ez80-clang"
+        }
+    ],
+    "version": 4
+}
